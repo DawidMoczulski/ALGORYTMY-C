@@ -1,3 +1,3 @@
 # ALGORYTMY-C
 
-# Many codes wrote in C language, implementing lists, trees and graphs.
+# Many codes written in C language, implementing lists, trees and graphs.
